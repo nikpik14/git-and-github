@@ -3,14 +3,15 @@ Answer the following questions:
 
 1. What is your favorite local restaurant?
 
-
+ROK Burger
 2. Name the last good book you read (title, author?).
 
-
+That was then, this is now by S.E Hinton 
 3. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
 
-
+The Lumineers
 4. Which text/code editor did you decide to use?
 
-
+Atom
 5. If you were to build a web site for fun, what would it be about?
+Clothes or how to be productive while doing nothing
